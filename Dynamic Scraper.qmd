@@ -5,7 +5,7 @@ import altair as alt
 import time
 ```
 
-* a. Pseudo-Code (PARTNER 2)
+Pseudo-Code
 ```{python}
 def scrape_enforcement_actions(year, month):
     """
